@@ -17,6 +17,9 @@
 <h3 align="center">📈 My Stats 📈</h3>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haewon-park&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+  
+<br>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haewon-park&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
   
 <p align="center">

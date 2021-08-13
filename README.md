@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Haewon Park&fontSize=70&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=150&section=header&text=Haewon Park&fontSize=70&fontColor=ffffff" />
 </p>
 
 <h3 align="center">🌳 Tech Stack 🌳</h3>
@@ -11,7 +11,6 @@
   
 </p>
 
-<br>
 <br>
   
 <h3 align="center">📈 My Stats 📈</h3>
@@ -27,7 +26,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw_park"/> 
   </p>
 <br>
-<br>
 
 <h3 align="center">📬 To Me 📬 </h3>
 <p align="center">
@@ -35,7 +33,6 @@
   <a href="mailto:qkrgodnjs12@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 
-<br>
 <br>
 
 <p align="center">

@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Haewon Park&fontSize=70&fontColor=ffffff" />
 </p>
@@ -15,15 +16,12 @@
   
 <h3 align="center">📈 My Stats 📈</h3>
 
-<div style="align:center">
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haewon-park&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haewon-park&layout=compact&theme=buefy&hide=css)](https://github.com/anuraghazra/github-readme-stats)
   
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw_park"/> 
   </p>
-</div>
 <br>
 <br>
 
@@ -39,3 +37,4 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaewon-park&count_bg=%23FFC0CB&title_bg=%23E9A1AD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+</div>

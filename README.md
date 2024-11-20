@@ -1,7 +1,4 @@
 <div align="center">
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=header&text=Haewon Park&fontSize=70&fontColor=ffffff&fontAlign=65" />
-</p>
 
 <h3 align="center">🌳 Tech Stack 🌳</h3>
 
